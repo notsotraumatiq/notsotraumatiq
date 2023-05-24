@@ -1,4 +1,10 @@
-### Hi there 👋
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/notsotraumatiq?v=3)
+
+
+### What up Big Dawg 👋
+
+<!--- Links ---> 
 
 <a href="https://www.instagram.com/notsotraumatiq/">
   <img align="left" alt="Atiq Patels's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
