@@ -1,8 +1,13 @@
+<div align="center" width="50">
+
+  
 <!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/notsotraumatiq?v=3)
 
 
 ### What up Big Dawg 👋
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/notsotraumatiq" alt="CoDiNg RocKs"  width="60%"/><br> 
 
 
 
@@ -41,3 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
