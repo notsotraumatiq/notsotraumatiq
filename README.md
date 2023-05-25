@@ -10,6 +10,12 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/notsotraumatiq" alt="CoDiNg RocKs"  width="60%"/><br> 
 
 
+<p><strong>Full Stack Engineer trying to find a job
+<br> Coder at night.
+<br><br> Chilling to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/1231349657) <br>
+
 
 <!--- Links ---> 
 
