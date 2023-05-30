@@ -18,7 +18,7 @@
 
 
 <!--- Links ---> 
-<div align="center">
+<div align="center" width="50">
 <a href="https://www.instagram.com/notsotraumatiq/">
   <img align="left" alt="Atiq Patels's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
