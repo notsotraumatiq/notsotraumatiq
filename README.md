@@ -18,7 +18,7 @@
 
 
 <!--- Links ---> 
-
+<div align="center">
 <a href="https://www.instagram.com/notsotraumatiq/">
   <img align="left" alt="Atiq Patels's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/notsotraumatiq/">
   <img align="left" alt="Atiqs's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+  </div>
 
 <br/>
 
