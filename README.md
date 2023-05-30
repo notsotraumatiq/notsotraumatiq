@@ -5,7 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/notsotraumatiq?v=3)
 
 
-### What up Big Dawg 👋
+### What up 👋
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/notsotraumatiq" alt="CoDiNg RocKs"  width="60%"/><br> 
 
@@ -38,6 +38,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=notsotraumatiq&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 <br/>
+ 
+</div>
 <!--
 **notsotraumatiq/notsotraumatiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,4 +55,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</div>
