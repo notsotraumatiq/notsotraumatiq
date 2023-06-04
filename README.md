@@ -1,14 +1,12 @@
 <div align="center" width="50">
 
-  
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/notsotraumatiq?v=3)
 
+![Profile views](https://gpvc.arturio.dev/notsotraumatiq?v=3)
 
 ### What up 👋
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/notsotraumatiq" alt="CoDiNg RocKs"  width="60%"/><br> 
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/notsotraumatiq" alt="CoDiNg RocKs"  width="60%"/><br>
 
 <p><strong>Full Stack Engineer trying to find a job
 <br> Coder at night.
@@ -16,9 +14,10 @@
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/1231349657) <br>
 
+<!--- Links --->
+<!-- center -->
+<p align="center">
 
-<!--- Links ---> 
-<div align="center" width="50">
 <a href="https://www.instagram.com/notsotraumatiq/">
   <img align="left" alt="Atiq Patels's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -31,14 +30,11 @@
 <a href="https://www.linkedin.com/in/notsotraumatiq/">
   <img align="left" alt="Atiqs's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-  </div>
-
-<br/>
-
+</p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=notsotraumatiq&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 <br/>
- 
+
 </div>
 <!--
 **notsotraumatiq/notsotraumatiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,5 +49,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+  -->
