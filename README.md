@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div display="flex" flex-direction="column" align-items="center" height="100vh" justify-content="center">
 
 <!-- Profile Views Counter -->
 
