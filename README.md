@@ -8,16 +8,6 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/notsotraumatiq" alt="CoDiNg RocKs"  width="60%"/><br>
 
-<p><strong>Full Stack Engineer trying to find a job
-<br> Coder at night.
-<br><br> Chilling to : 🎧  </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/1231349657) <br>
-
-<!--- Links --->
-<!-- center -->
-<p align="center">
-
 <a href="https://www.instagram.com/notsotraumatiq/">
   <img align="left" alt="Atiq Patels's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -30,7 +20,14 @@
 <a href="https://www.linkedin.com/in/notsotraumatiq/">
   <img align="left" alt="Atiqs's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</p>
+<p><strong>Full Stack Engineer trying to make the world a better place.
+<br> Coder at night.
+<br><br> Chilling to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/1231349657) <br>
+
+<!--- Links --->
+<!-- center -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=notsotraumatiq&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 <br/>
