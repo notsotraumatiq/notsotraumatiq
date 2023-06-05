@@ -2,14 +2,14 @@
 
 <!-- Profile Views Counter -->
 
-![Profile views](https://gpvc.arturio.dev/notsotraumatiq?v=3)
+<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/gifs/feel_good.gif" alt="Foxy" width="60%">
 
 ### What up 👋
 
-<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/feel_good.gif" alt="Feel Good" width="60%">
-
 **Full Stack Engineer trying to make the world a better place.**
-Coder at night.
+**Coder at night.**
+
+<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/gifs/feel_good.gif" alt="Feel Good" width="60%">
 
 Chilling to: 🎧
 
@@ -20,7 +20,8 @@ Chilling to: 🎧
 
 [<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/instagram.png" alt="Instagram" width="22px">](https://www.instagram.com/notsotraumatiq/)
 [<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/discord.svg" alt="Discord" width="22px">](https://discord.gg/579168426170515467)
-[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/twitter.svg" alt="Twitter" width="22px">](https://twitter.com/notsotraumatiq)
-[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/linkedin.svg" alt="LinkedIn" width="22px">](https://www.linkedin.com/in/notsotraumatiq/)
+[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/twitter.png" alt="Twitter" width="22px">](https://twitter.com/notsotraumatiq)
+[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/linkedin.png" alt="LinkedIn" width="22px">](https://www.linkedin.com/in/notsotraumatiq/)
+[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/youtube.png" alt="LinkedIn" width="22px">](https://www.youtube.com/notsotraumatiq)
 
 </div>
