@@ -2,15 +2,18 @@
 
 <!-- Profile Views Counter -->
 
-<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/gifs/feel_good.gif" alt="Foxy" width="60%">
+### What up
 
-### What up 👋
+<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/gifs/foxy.gif" alt="Foxy" width="60%">
 
+**I'm notsotraumatiq**
 **Full Stack Engineer trying to make the world a better place.**
-**Coder at night.**
 
 <img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/gifs/feel_good.gif" alt="Feel Good" width="60%">
 
+**Coder at night**
+
+<br>
 Chilling to: 🎧
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/1231349657)
