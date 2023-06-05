@@ -18,11 +18,9 @@ Chilling to: 🎧
 <!--- Links --->
 <!--- You can adjust the width of the logos as needed --->
 
-[<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="Instagram" width="22px">](https://www.instagram.com/notsotraumatiq/)
-[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Discord" width="22px">](https://discord.gg/579168426170515467)
-[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter" width="22px">](https://twitter.com/notsotraumatiq)
-[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn" width="22px">](https://www.linkedin.com/in/notsotraumatiq/)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=notsotraumatiq&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/instagram.png" alt="Instagram" width="22px">](https://www.instagram.com/notsotraumatiq/)
+[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/discord.svg" alt="Discord" width="22px">](https://discord.gg/579168426170515467)
+[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/twitter.svg" alt="Twitter" width="22px">](https://twitter.com/notsotraumatiq)
+[<img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/icons/linkedin.svg" alt="LinkedIn" width="22px">](https://www.linkedin.com/in/notsotraumatiq/)
 
 </div>
