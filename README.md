@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/gifs/foxy.gif" alt="Foxy" width="60%">
 
 **I'm notsotraumatiq**
-**Full Stack Engineer trying to make the world a better place.**
+** A Full Stack Engineer trying to make the world a better place.**
 
 <img src="https://raw.githubusercontent.com/notsotraumatiq/notsotraumatiq/master/gifs/feel_good.gif" alt="Feel Good" width="60%">
 
