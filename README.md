@@ -13,7 +13,7 @@
 </div>
 
 <br>
-My expertise includes TypeScript, JavaScript, React, Redux, HTML, CSS, Firebase, AWS , and Node.js. As a full-stack developer, I am passionate about creating innovative and user-friendly web applications that solve real-world problems. With a Master's degree in Computer Science from Stevens Institute of Technology, I have gained extensive knowledge of various programming languages, data structures, and algorithms.
+My expertise includes TypeScript, JavaScript, React, Redux, Node, Python, Firebase, and AWS. As a full-stack developer, I am passionate about creating innovative and user-friendly web applications that solve real-world problems. With a Master's degree in Computer Science from Stevens Institute of Technology, I have gained extensive knowledge of various programming languages, data structures, and algorithms.
 <br>
 I am always eager to learn new technologies and challenge myself with complex projects. I strive to work effectively in agile environments with cross-functional teams
 <br>
